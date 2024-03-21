@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621452996 source:d:\first year\second semester\comp133\assignments\new folder\counting the character occurrences in a file\main.c
+	<stdio.h>
+	<string.h>
+
